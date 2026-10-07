@@ -1,0 +1,5 @@
+{
+  "android": { "latestVersionCode": 7 },
+  "ios": { "latestVersionCode": 0 },
+  "note": "Bump latestVersionCode after each store release; the game offers an update when its own build number is lower."
+}
